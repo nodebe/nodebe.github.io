@@ -1,7 +1,6 @@
 {
-  "name": "portfolio-website",
+  "name": "exit",
   "version": "1.0.0",
-  "description": "",
   "main": "tailwind.config.js",
   "scripts": {
     "watch": "npx tailwindcss -i ./src/styles/input.css -o ./src/styles/main.css --watch",
@@ -12,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodebe/My-Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodebe/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/nodebe/My-Portfolio#readme",
+  "description": ""
 }
