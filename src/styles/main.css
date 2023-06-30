@@ -562,6 +562,10 @@ video {
   margin-top: 2rem;
 }
 
+.mt-28 {
+  margin-top: 7rem;
+}
+
 .flex {
   display: flex;
 }
@@ -699,6 +703,10 @@ video {
   border-radius: 9999px;
 }
 
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
 .rounded-t-3xl {
   border-top-left-radius: 1.5rem;
   border-top-right-radius: 1.5rem;
@@ -715,6 +723,11 @@ video {
 .bg-pillButtonBackground {
   --tw-bg-opacity: 1;
   background-color: rgb(215 255 224 / var(--tw-bg-opacity));
+}
+
+.bg-heroSolid {
+  --tw-bg-opacity: 1;
+  background-color: rgb(66 68 110 / var(--tw-bg-opacity));
 }
 
 .bg-gradient-to-b {
@@ -878,6 +891,11 @@ video {
 
 .text-transparent {
   color: transparent;
+}
+
+.text-slate-50 {
+  --tw-text-opacity: 1;
+  color: rgb(248 250 252 / var(--tw-text-opacity));
 }
 
 .underline {
